@@ -7,3 +7,5 @@ git commit -m "Adding Commands"
 git status
 git push origin master
 git status
+
+This is something new
