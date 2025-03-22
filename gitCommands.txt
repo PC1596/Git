@@ -3,3 +3,7 @@ git status
 git add .
 git commit -m "adding testing file"
 git status
+git commit -m "Adding Commands"
+git status
+git push origin master
+git status
